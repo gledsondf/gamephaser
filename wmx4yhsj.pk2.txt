@@ -1,0 +1,15 @@
+﻿alteração do comentário do arquivo criação do arquivo index.html
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Mar 27 17:18:21 2018 -0300
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   2index.html
+#	new file:   index.html
+#
+
